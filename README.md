@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mightyFZeus
+- 👋 Hi, I’m Bolarin
 - 👀 I’m interested in knowing and making things work
-- 🌱 I’m currently learning React, React Native
+- 🌱 Development with React and ReactNavtive
+- Currently exploring Golang 👀
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me on twitter: @mightyzeus9 
 
