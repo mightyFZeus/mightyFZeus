@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bolarin
 - 👀 I’m interested in knowing and making things work
-- 🌱 Development with React and ReactNavtive
-- Currently exploring Golang 👀
+- 🌱 Development with ReactNavtive and Golang
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me on twitter: @mightyzeus9 
 
